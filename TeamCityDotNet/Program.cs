@@ -6,7 +6,7 @@ namespace TeamCityDotNet
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello NAGP team!");
+            Console.WriteLine("Hello Shivam Sahni!");
         }
     }
 }
